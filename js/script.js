@@ -2,8 +2,8 @@
 
 // alert('hello');
 
-// const result = confirm('are you here?');
-// console.log(result);
+const result = confirm('are you here?');
+console.log(result);
 
 // const answer = prompt('Вам есть 18?', '');
 // console.log(typeof(answer));
@@ -21,18 +21,18 @@
 // const user = 'Иван';
 // alert(`Привет, ${user}`);
 
-console.log('arr' + ' - object');
+// console.log('arr' + ' - object');
 
-let incr = 10,
-    decr = 10;
+// let incr = 10,
+//     decr = 10;
 
     // incr++;
     // decr--;
 
-    console.log(++incr);
-    console.log(--decr);
+//     console.log(++incr);
+//     console.log(--decr);
 
-   const isChecked = false,
-        isClose = false;
+//    const isChecked = false,
+//         isClose = false;
 
-    console.log(isChecked || !isClose);    
+//     console.log(isChecked || !isClose);    
